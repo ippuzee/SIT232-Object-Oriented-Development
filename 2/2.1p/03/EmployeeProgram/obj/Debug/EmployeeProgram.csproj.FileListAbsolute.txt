@@ -1,0 +1,7 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\03\EmployeeProgram\bin\Debug\EmployeeProgram.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\03\EmployeeProgram\bin\Debug\EmployeeProgram.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\03\EmployeeProgram\bin\Debug\EmployeeProgram.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\03\EmployeeProgram\obj\Debug\EmployeeProgram.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\03\EmployeeProgram\obj\Debug\EmployeeProgram.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\03\EmployeeProgram\obj\Debug\EmployeeProgram.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\03\EmployeeProgram\obj\Debug\EmployeeProgram.pdb

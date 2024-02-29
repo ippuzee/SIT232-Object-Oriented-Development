@@ -1,0 +1,7 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\10\FuncThree\obj\Debug\FuncThree.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\10\FuncThree\obj\Debug\FuncThree.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\10\FuncThree\bin\Debug\FuncThree.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\10\FuncThree\bin\Debug\FuncThree.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\10\FuncThree\bin\Debug\FuncThree.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\10\FuncThree\obj\Debug\FuncThree.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\10\FuncThree\obj\Debug\FuncThree.pdb

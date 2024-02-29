@@ -1,0 +1,7 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\11\FuncFour\bin\Debug\FuncFour.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\11\FuncFour\bin\Debug\FuncFour.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\11\FuncFour\bin\Debug\FuncFour.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\11\FuncFour\obj\Debug\FuncFour.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\11\FuncFour\obj\Debug\FuncFour.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\11\FuncFour\obj\Debug\FuncFour.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\11\FuncFour\obj\Debug\FuncFour.pdb

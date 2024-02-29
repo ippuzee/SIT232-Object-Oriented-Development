@@ -1,0 +1,7 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.2p\04\finderror1\finderror1\bin\Debug\finderror1.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.2p\04\finderror1\finderror1\bin\Debug\finderror1.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.2p\04\finderror1\finderror1\bin\Debug\finderror1.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.2p\04\finderror1\finderror1\obj\Debug\finderror1.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.2p\04\finderror1\finderror1\obj\Debug\finderror1.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.2p\04\finderror1\finderror1\obj\Debug\finderror1.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.2p\04\finderror1\finderror1\obj\Debug\finderror1.pdb

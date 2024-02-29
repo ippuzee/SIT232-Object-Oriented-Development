@@ -1,0 +1,7 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\08\FuncOne\bin\Debug\FuncOne.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\08\FuncOne\bin\Debug\FuncOne.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\08\FuncOne\bin\Debug\FuncOne.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\08\FuncOne\obj\Debug\FuncOne.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\08\FuncOne\obj\Debug\FuncOne.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\08\FuncOne\obj\Debug\FuncOne.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.1p\Nirosh_Ravindran_3.1p_BSCP,CS,63,134\08\FuncOne\obj\Debug\FuncOne.pdb

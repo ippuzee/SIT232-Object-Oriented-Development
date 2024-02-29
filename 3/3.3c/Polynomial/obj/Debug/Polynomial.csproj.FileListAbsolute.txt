@@ -1,0 +1,7 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.3c\Nirosh_Ravindran_3.3c_BSCP,CS,63,134\Polynomial\bin\Debug\Polynomial.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.3c\Nirosh_Ravindran_3.3c_BSCP,CS,63,134\Polynomial\bin\Debug\Polynomial.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.3c\Nirosh_Ravindran_3.3c_BSCP,CS,63,134\Polynomial\bin\Debug\Polynomial.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.3c\Nirosh_Ravindran_3.3c_BSCP,CS,63,134\Polynomial\obj\Debug\Polynomial.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.3c\Nirosh_Ravindran_3.3c_BSCP,CS,63,134\Polynomial\obj\Debug\Polynomial.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.3c\Nirosh_Ravindran_3.3c_BSCP,CS,63,134\Polynomial\obj\Debug\Polynomial.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.3c\Nirosh_Ravindran_3.3c_BSCP,CS,63,134\Polynomial\obj\Debug\Polynomial.pdb

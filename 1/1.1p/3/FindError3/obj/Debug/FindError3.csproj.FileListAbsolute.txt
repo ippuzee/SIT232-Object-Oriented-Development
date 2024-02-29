@@ -1,0 +1,14 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError3\obj\Debug\FindError3.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError3\obj\Debug\FindError3.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError3\bin\Debug\FindError3.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError3\bin\Debug\FindError3.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError3\bin\Debug\FindError3.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError3\obj\Debug\FindError3.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError3\obj\Debug\FindError3.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\3\FindError3\bin\Debug\FindError3.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\3\FindError3\bin\Debug\FindError3.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\3\FindError3\bin\Debug\FindError3.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\3\FindError3\obj\Debug\FindError3.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\3\FindError3\obj\Debug\FindError3.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\3\FindError3\obj\Debug\FindError3.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\3\FindError3\obj\Debug\FindError3.pdb

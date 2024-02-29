@@ -1,0 +1,7 @@
+D:\sem2\OOD\5\5.1p\Nirosh_Ravindran_5.1P_BSCP_CS_63_134\02\bin\Debug\02.exe.config
+D:\sem2\OOD\5\5.1p\Nirosh_Ravindran_5.1P_BSCP_CS_63_134\02\bin\Debug\02.exe
+D:\sem2\OOD\5\5.1p\Nirosh_Ravindran_5.1P_BSCP_CS_63_134\02\bin\Debug\02.pdb
+D:\sem2\OOD\5\5.1p\Nirosh_Ravindran_5.1P_BSCP_CS_63_134\02\obj\Debug\02.csproj.AssemblyReference.cache
+D:\sem2\OOD\5\5.1p\Nirosh_Ravindran_5.1P_BSCP_CS_63_134\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+D:\sem2\OOD\5\5.1p\Nirosh_Ravindran_5.1P_BSCP_CS_63_134\02\obj\Debug\02.exe
+D:\sem2\OOD\5\5.1p\Nirosh_Ravindran_5.1P_BSCP_CS_63_134\02\obj\Debug\02.pdb

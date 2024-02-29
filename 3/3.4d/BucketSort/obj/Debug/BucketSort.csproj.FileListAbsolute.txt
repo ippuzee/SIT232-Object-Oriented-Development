@@ -1,0 +1,7 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.4d\Nirosh_Ravindran_3.4d_BSCP,CS,63,134\BucketSort\obj\Debug\BucketSort.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.4d\Nirosh_Ravindran_3.4d_BSCP,CS,63,134\BucketSort\obj\Debug\BucketSort.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.4d\Nirosh_Ravindran_3.4d_BSCP,CS,63,134\BucketSort\bin\Debug\BucketSort.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.4d\Nirosh_Ravindran_3.4d_BSCP,CS,63,134\BucketSort\bin\Debug\BucketSort.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.4d\Nirosh_Ravindran_3.4d_BSCP,CS,63,134\BucketSort\bin\Debug\BucketSort.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.4d\Nirosh_Ravindran_3.4d_BSCP,CS,63,134\BucketSort\obj\Debug\BucketSort.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.4d\Nirosh_Ravindran_3.4d_BSCP,CS,63,134\BucketSort\obj\Debug\BucketSort.pdb

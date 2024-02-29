@@ -1,0 +1,7 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\02\MobileProgram2\bin\Debug\MobileProgram2.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\02\MobileProgram2\bin\Debug\MobileProgram2.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\02\MobileProgram2\bin\Debug\MobileProgram2.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\02\MobileProgram2\obj\Debug\MobileProgram2.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\02\MobileProgram2\obj\Debug\MobileProgram2.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\02\MobileProgram2\obj\Debug\MobileProgram2.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\2\2.1p\02\MobileProgram2\obj\Debug\MobileProgram2.pdb

@@ -1,0 +1,7 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.2p\03\BankSystem3\bin\Debug\BankSystem3.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.2p\03\BankSystem3\bin\Debug\BankSystem3.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.2p\03\BankSystem3\bin\Debug\BankSystem3.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.2p\03\BankSystem3\obj\Debug\BankSystem3.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.2p\03\BankSystem3\obj\Debug\BankSystem3.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.2p\03\BankSystem3\obj\Debug\BankSystem3.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\3\3.2p\03\BankSystem3\obj\Debug\BankSystem3.pdb

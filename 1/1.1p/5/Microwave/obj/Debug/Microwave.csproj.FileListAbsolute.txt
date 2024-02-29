@@ -1,0 +1,14 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\5\Microwave\bin\Debug\Microwave.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\5\Microwave\bin\Debug\Microwave.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\5\Microwave\bin\Debug\Microwave.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\5\Microwave\obj\Debug\Microwave.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\5\Microwave\obj\Debug\Microwave.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\5\Microwave\obj\Debug\Microwave.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\5\Microwave\obj\Debug\Microwave.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\5\Microwave\obj\Debug\Microwave.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\5\Microwave\obj\Debug\Microwave.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\5\Microwave\obj\Debug\Microwave.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\5\Microwave\obj\Debug\Microwave.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\5\Microwave\bin\Debug\Microwave.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\5\Microwave\bin\Debug\Microwave.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\5\Microwave\bin\Debug\Microwave.pdb

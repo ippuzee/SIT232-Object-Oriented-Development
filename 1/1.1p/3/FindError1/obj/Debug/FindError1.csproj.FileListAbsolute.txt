@@ -1,0 +1,7 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError1\bin\Debug\FindError1.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError1\bin\Debug\FindError1.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError1\bin\Debug\FindError1.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError1\obj\Debug\FindError1.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError1\obj\Debug\FindError1.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError1\obj\Debug\FindError1.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\C# in class\FindError1\obj\Debug\FindError1.pdb

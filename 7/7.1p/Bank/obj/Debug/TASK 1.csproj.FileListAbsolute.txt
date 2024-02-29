@@ -1,0 +1,21 @@
+D:\Semester 2\OOD\notes\Assignment\5\5.2p\Nirosh_Ravindran_5.2P_BSCP_CS_63_134\TASK 1\bin\Debug\TASK 1.exe.config
+D:\Semester 2\OOD\notes\Assignment\5\5.2p\Nirosh_Ravindran_5.2P_BSCP_CS_63_134\TASK 1\bin\Debug\TASK 1.exe
+D:\Semester 2\OOD\notes\Assignment\5\5.2p\Nirosh_Ravindran_5.2P_BSCP_CS_63_134\TASK 1\bin\Debug\TASK 1.pdb
+D:\Semester 2\OOD\notes\Assignment\5\5.2p\Nirosh_Ravindran_5.2P_BSCP_CS_63_134\TASK 1\obj\Debug\TASK 1.csproj.AssemblyReference.cache
+D:\Semester 2\OOD\notes\Assignment\5\5.2p\Nirosh_Ravindran_5.2P_BSCP_CS_63_134\TASK 1\obj\Debug\TASK 1.csproj.CoreCompileInputs.cache
+D:\Semester 2\OOD\notes\Assignment\5\5.2p\Nirosh_Ravindran_5.2P_BSCP_CS_63_134\TASK 1\obj\Debug\TASK 1.exe
+D:\Semester 2\OOD\notes\Assignment\5\5.2p\Nirosh_Ravindran_5.2P_BSCP_CS_63_134\TASK 1\obj\Debug\TASK 1.pdb
+D:\Semester 2\OOD\notes\Assignment\6\6.2p\Nirosh_Ravindran_6.2p_BSCP,CS,63,134\Bank\bin\Debug\TASK 1.exe.config
+D:\Semester 2\OOD\notes\Assignment\6\6.2p\Nirosh_Ravindran_6.2p_BSCP,CS,63,134\Bank\bin\Debug\TASK 1.exe
+D:\Semester 2\OOD\notes\Assignment\6\6.2p\Nirosh_Ravindran_6.2p_BSCP,CS,63,134\Bank\bin\Debug\TASK 1.pdb
+D:\Semester 2\OOD\notes\Assignment\6\6.2p\Nirosh_Ravindran_6.2p_BSCP,CS,63,134\Bank\obj\Debug\TASK 1.csproj.AssemblyReference.cache
+D:\Semester 2\OOD\notes\Assignment\6\6.2p\Nirosh_Ravindran_6.2p_BSCP,CS,63,134\Bank\obj\Debug\TASK 1.csproj.CoreCompileInputs.cache
+D:\Semester 2\OOD\notes\Assignment\6\6.2p\Nirosh_Ravindran_6.2p_BSCP,CS,63,134\Bank\obj\Debug\TASK 1.exe
+D:\Semester 2\OOD\notes\Assignment\6\6.2p\Nirosh_Ravindran_6.2p_BSCP,CS,63,134\Bank\obj\Debug\TASK 1.pdb
+D:\Semester 2\OOD\notes\Assignment\7\7.1p\Bank\bin\Debug\TASK 1.exe.config
+D:\Semester 2\OOD\notes\Assignment\7\7.1p\Bank\bin\Debug\TASK 1.exe
+D:\Semester 2\OOD\notes\Assignment\7\7.1p\Bank\bin\Debug\TASK 1.pdb
+D:\Semester 2\OOD\notes\Assignment\7\7.1p\Bank\obj\Debug\TASK 1.csproj.AssemblyReference.cache
+D:\Semester 2\OOD\notes\Assignment\7\7.1p\Bank\obj\Debug\TASK 1.csproj.CoreCompileInputs.cache
+D:\Semester 2\OOD\notes\Assignment\7\7.1p\Bank\obj\Debug\TASK 1.exe
+D:\Semester 2\OOD\notes\Assignment\7\7.1p\Bank\obj\Debug\TASK 1.pdb

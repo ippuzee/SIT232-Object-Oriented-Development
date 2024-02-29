@@ -1,0 +1,14 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\4\FindOutput1\bin\Debug\FindOutput1.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\4\FindOutput1\bin\Debug\FindOutput1.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\4\FindOutput1\bin\Debug\FindOutput1.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\4\FindOutput1\obj\Debug\FindOutput1.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\4\FindOutput1\obj\Debug\FindOutput1.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\4\FindOutput1\obj\Debug\FindOutput1.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1.1p\4\FindOutput1\obj\Debug\FindOutput1.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\1.1p\4\FindOutput1\bin\Debug\FindOutput1.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\1.1p\4\FindOutput1\bin\Debug\FindOutput1.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\1.1p\4\FindOutput1\bin\Debug\FindOutput1.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\1.1p\4\FindOutput1\obj\Debug\FindOutput1.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\1.1p\4\FindOutput1\obj\Debug\FindOutput1.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\1.1p\4\FindOutput1\obj\Debug\FindOutput1.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\1\1.1p\1.1p\4\FindOutput1\obj\Debug\FindOutput1.pdb

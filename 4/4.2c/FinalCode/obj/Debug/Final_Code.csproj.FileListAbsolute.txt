@@ -1,0 +1,7 @@
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\4\4.2c\FinalCode\bin\Debug\FinalCode.exe.config
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\4\4.2c\FinalCode\bin\Debug\FinalCode.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\4\4.2c\FinalCode\bin\Debug\FinalCode.pdb
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\4\4.2c\FinalCode\obj\Debug\Final_Code.csproj.AssemblyReference.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\4\4.2c\FinalCode\obj\Debug\Final_Code.csproj.CoreCompileInputs.cache
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\4\4.2c\FinalCode\obj\Debug\FinalCode.exe
+C:\Users\baxy2\OneDrive\Desktop\CICRA\Semester 2\OOD\Assignments\4\4.2c\FinalCode\obj\Debug\FinalCode.pdb

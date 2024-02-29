@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindError1", "FindError1.csproj", "{82BFF45E-F810-47B6-99C4-FFA3F76C28B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82BFF45E-F810-47B6-99C4-FFA3F76C28B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BFF45E-F810-47B6-99C4-FFA3F76C28B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BFF45E-F810-47B6-99C4-FFA3F76C28B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BFF45E-F810-47B6-99C4-FFA3F76C28B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C2CEDF2-0D9C-4F25-9E60-E2841A7C49F3}
+	EndGlobalSection
+EndGlobal
